@@ -17,13 +17,13 @@ This repository remains here not just as a portfolio of my early work, but also 
 ### Project Index  
 
 Below are my early SQL projects, organized for easier reference: 
-1. [COVID Deaths Record](https://github.com/DCEHD/covid-data-exploration)
-2. [Galaways Sales](https://github.com/DCEHD/sales-analysis/tree/main/Galaways%20Sales%20(Product)%20Record)
-3. [Video Game Sales](https://github.com/DCEHD/sales-analysis/tree/main/Video%20Game%20Sales)
-4. [Nashville Housing data cleaning](https://github.com/DCEHD/nashville-housing-data-cleaning)
-5. [HK Employees Salary](https://github.com/DCEHD/employees-data-analysis/blob/main/HK%20Employees%20Salary.sql) 
-6. [MegaCitySuperstores Records](https://github.com/DCEHD/PortfolioProjects/blob/main/MegaCitySuperstores.sql)
-7. [JTC Employees Query](https://github.com/DCEHD/employees-data-analysis/blob/main/JTC%20Employees%20Query.sql)
+1. [COVID Deaths Record](https://github.com/dcehd/covid-data-exploration)
+2. [Galaways Sales](https://github.com/dcehd/sales-analysis/tree/main/Galaways%20Sales%20(Product)%20Record)
+3. [Video Game Sales](https://github.com/dcehd/sales-analysis/tree/main/Video%20Game%20Sales)
+4. [Nashville Housing data cleaning](https://github.com/dcehd/nashville-housing-data-cleaning)
+5. [HK Employees Salary](https://github.com/dcehd/employees-data-analysis/blob/main/HK%20Employees%20Salary.sql) 
+6. [MegaCitySuperstores Records](https://github.com/dcehd/PortfolioProjects/blob/main/MegaCitySuperstores.sql)
+7. [JTC Employees Query](https://github.com/dcehd/employees-data-analysis/blob/main/JTC%20Employees%20Query.sql)
 
 ---
 
